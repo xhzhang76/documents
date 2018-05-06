@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/opt/ros/eric_ws/devel -DCMAKE_INSTALL_PREFIX=/opt/ros/eric_ws/install -G Unix Makefiles
